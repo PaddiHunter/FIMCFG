@@ -1,2 +1,5 @@
 # FIMCFG
-The code for Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance
+## Requirements
+Install the dependencies in requirements.txt.
+## run
+Modify the config in config.py, and then run the python train.py command.
